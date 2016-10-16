@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
- Salut à toi camarade. Ok ta mère
+ Salut à toi camarade
   </body>
 </html>
